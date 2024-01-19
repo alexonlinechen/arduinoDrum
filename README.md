@@ -1,16 +1,16 @@
-«öÁä¥\¯à
+æŒ‰éµåŠŸèƒ½
 
-BT1  -- ¤U¤@­Ó¼Ö¾¹
-BT2  -- ½T©w¿ï¾Üªº¼Ö¾¹
+BT1  -- ä¸‹ä¸€å€‹æ¨‚å™¨
+BT2  -- ç¢ºå®šé¸æ“‡çš„æ¨‚å™¨
 BT3  --  
  
-¼Ö¾¹¼Ò¦¡
-BT1  -- C3-B3  - §C
-BT2  -- C4-B4  - ¤¤
-BT3  -- C5-B5  - °ª
+æ¨‚å™¨æ¨¡å¼
+BT1  -- C3-B3  - ä½Ž
+BT2  -- C4-B4  - ä¸­
+BT3  -- C5-B5  - é«˜
 
 
-### Àï¤h¹ª ### BT2 (¹w³])
+### çˆµå£«é¼“ ### BT2 (é è¨­)
 
 D01 --- 
 D02 --- 
@@ -21,44 +21,44 @@ D06 ---
 D07 --- 
 D08 --- 
 
-###   ¤¤°ê¼Ö¾¹  ### BT1
+###   ä¸­åœ‹æ¨‚å™¨  ### BT1
 
   ---------------------------------
   I       I       I       I       I
-  I  ¶r   I °ó¹ª  I   Ær  I  ÅT·ø I       
+  I  éˆ”   I å ‚é¼“  I   é‘¼  I  éŸ¿ç›ž I       
   I       I       I       I       I
   ---------------------------------
   I       I       I       I       I
-  I¤j¹ª°¼ I ¤j¹ª  I ¤j¹ª  I¤j¹ª°¼ I       
+  Iå¤§é¼“å´ I å¤§é¼“  I å¤§é¼“  Iå¤§é¼“å´ I       
   I       I       I       I       I
   ---------------------------------
 
 
-D09 --- ¶r
-D10 --- °ó¹ª
-D11 --- Ær
-D12 --- ÅT·ø
-D13 --- ¤j¹ª
-D14 --- ¤j¹ª°¼
+D09 --- éˆ”
+D10 --- å ‚é¼“
+D11 --- é‘¼
+D12 --- éŸ¿ç›ž
+D13 --- å¤§é¼“
+D14 --- å¤§é¼“å´
 D15 --- 
 D16--- 
 
 
 
-###   «D¬w ºVÀ» ¼Ö¾¹  ###  BT3
+###   éžæ´² æ•²æ“Š æ¨‚å™¨  ###  BT3
 
 
      D17     D18     D19     D20
   ---------------------------------
   I       I       I       I       I
-  I  §C   I  ¤¤   I  °ª1  I  Roll I   ¤¤ªF ¹ª
+  I  ä½Ž   I  ä¸­   I  é«˜1  I  Roll I   ä¸­æ± é¼“
   I bass  I tone  I slap  I       I     
   I       I       I       I       I 
   ---------------------------------
   I       I       I       I       I
-  I  §C   I  ¤¤   I  °ª1  I  °ª2  I
+  I  ä½Ž   I  ä¸­   I  é«˜1  I  é«˜2  I
   I bass  I tone  I slap  I  slap I     
-  I       I       I       I       I   «D¬w ¹ª
+  I       I       I       I       I   éžæ´² é¼“
   ---------------------------------
      D21      D22     D23     D24
 
@@ -69,7 +69,7 @@ D16---
 
 
 
-### Å¸­µµ^ ###
+### é¡«éŸ³ç´ ###
 
   ---------------------------------
   I       I       I       I       I
@@ -109,7 +109,7 @@ vp21 --- B5
 
 
 
-### ¿ûµ^ ###
+### é‹¼ç´ ###
 P01 --- C3
 P02 --- D3
 P03 --- E3
@@ -135,7 +135,7 @@ P20 --- A5
 P21 --- B5
 
 
-### ¤p´£µ^ ### 
+### å°æç´ ### 
 
 vi01 --- C3
 vi02 --- D3
@@ -163,7 +163,7 @@ vi21 --- B5
 
 
 
-### ÂÄ§J´µ­· ####
+### è–©å…‹æ–¯é¢¨ ####
 
 sx01 --- C3
 sx02 --- D3
@@ -191,25 +191,25 @@ sx21 --- B5
 
 
 
-## ²×·¥±K½X  «öÁä¥\¯à ##
+## çµ‚æ¥µå¯†ç¢¼  æŒ‰éµåŠŸèƒ½ ##
 
   ---------------------------------
   I       I       I       I       I
-  I ¤Q¦ì  I ­Ó¦ì  I       I       I       
+  I åä½  I å€‹ä½  I       I       I       
   I   +   I   +   I       I       I
   ---------------------------------
   I       I       I       I       I
-  I  ¤Q¦ì I ­Ó¦ì  I       I ½T©w  I       
+  I  åä½ I å€‹ä½  I       I ç¢ºå®š  I       
   I   -   I   -   I       I       I
   ---------------------------------
 
 
-## ¬µ¼u¹CÀ¸  «öÁä¥\¯à ##
+## ç‚¸å½ˆéŠæˆ²  æŒ‰éµåŠŸèƒ½ ##
 
-BT2  - ½ò¦a¹p
-BT3  - ¼Æ¦r¬µ¼u
+BT2  - è¸©åœ°é›·
+BT3  - æ•¸å­—ç‚¸å½ˆ
              
-             piezo ¥ô·NÁä
+             piezo ä»»æ„éµ
   ---------------------------------
   I       I       I       I       I
   I       I       I       I       I       
@@ -222,10 +222,10 @@ BT3  - ¼Æ¦r¬µ¼u
 
 
 
-## Bingo »«ªG¹CÀ¸  «öÁä¥\¯à ##
+## Bingo è³“æžœéŠæˆ²  æŒ‰éµåŠŸèƒ½ ##
 
              
-             piezo ¥ô·NÁä
+             piezo ä»»æ„éµ
   ---------------------------------
   I       I       I       I       I
   I       I       I       I       I       
@@ -238,33 +238,33 @@ BT3  - ¼Æ¦r¬µ¼u
 
 
 
-## ÂY»ë¤l ¹CÀ¸  «öÁä¥\¯à ##
+## æ“²éª°å­ éŠæˆ²  æŒ‰éµåŠŸèƒ½ ##
 
-BT3 -  ¶}©lÂY»ë¤l
+BT3 -  é–‹å§‹æ“²éª°å­
              
-            Table ¥¬§½
+            Table å¸ƒå±€
   ---------------------------------
   I       I       I       I       I
-  I   1   I   2   I   3   I  ¤p   I       
+  I   1   I   2   I   3   I  å°   I       
   I       I       I       I       I
   ---------------------------------
   I       I       I       I       I
-  I   4   I   5   I   6   I  ¤j   I       
+  I   4   I   5   I   6   I  å¤§   I       
   I       I       I       I       I
   ---------------------------------
 
 
 
-*´î¤Ö¼½©ñWAV«áªºÂø­µ
+*æ¸›å°‘æ’­æ”¾WAVå¾Œçš„é›œéŸ³
 
-¦b TMRpcm®w ªº¡upcmConfig.h¡vÀÉ®×¤¤¡A¨ú®øµùÄÀ HANDLE_TAGS
+åœ¨ TMRpcmåº« çš„ã€ŒpcmConfig.hã€æª”æ¡ˆä¸­ï¼Œå–æ¶ˆè¨»é‡‹ HANDLE_TAGS
 ex: change  //#define HANDLE_TAGS
          to   #define HANDLE_TAGS
 
-*wva ®æ¦¡
-¨Ï¥ÎAudacity³nÅé¿é¥X
-³æ­µ momn  16000Hz   8bit
+*wva æ ¼å¼
+ä½¿ç”¨Audacityè»Ÿé«”è¼¸å‡º
+å–®éŸ³ momn  16000Hz   8bit
 wavform.png
 
-¿é¥XwavÀÉ¦W¤£¯à¶W¹L8­Ó¦r¤¸,§_«hµLªk¼½©ñ
+è¼¸å‡ºwavæª”åä¸èƒ½è¶…éŽ8å€‹å­—å…ƒ,å¦å‰‡ç„¡æ³•æ’­æ”¾
 ex: 12345678.wav
